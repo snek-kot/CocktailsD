@@ -1,0 +1,40 @@
+c:\users\dark\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\bin\Debug\CocktailsD.exe.config
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\bin\Debug\DatabaseMain.mdf
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\bin\Debug\DatabaseMain_log.ldf
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\bin\Debug\CocktailsD.exe
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\bin\Debug\CocktailsD.pdb
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\obj\Debug\CocktailsD.csprojResolveAssemblyReference.cache
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\obj\Debug\AuthorizationWindow.baml
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\obj\Debug\MainWindow.baml
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\obj\Debug\AuthorizationWindow.g.cs
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\obj\Debug\MainWindow.g.cs
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\obj\Debug\App.g.cs
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\obj\Debug\CocktailsD_Content.g.cs
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\obj\Debug\CocktailsD_MarkupCompile.cache
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\obj\Debug\CocktailsD.g.resources
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\obj\Debug\CocktailsD.Properties.Resources.resources
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\obj\Debug\CocktailsD.csproj.GenerateResource.Cache
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\obj\Debug\CocktailsD.exe
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\obj\Debug\CocktailsD.pdb
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\obj\Debug\EditWindow.baml
+C:\Users\DARK\documents\visual studio 2012\Projects\CocktailsD\CocktailsD\obj\Debug\EditWindow.g.cs
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\bin\Debug\CocktailsD.exe.config
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\obj\Debug\CocktailsD.exe
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\obj\Debug\CocktailsD.pdb
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\bin\Debug\DatabaseMain.mdf
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\bin\Debug\DatabaseMain_log.ldf
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\bin\Debug\CocktailsD.exe
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\bin\Debug\CocktailsD.pdb
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\obj\Debug\CocktailsD.csprojResolveAssemblyReference.cache
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\obj\Debug\AuthorizationWindow.baml
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\obj\Debug\EditWindow.baml
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\obj\Debug\MainWindow.baml
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\obj\Debug\AuthorizationWindow.g.cs
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\obj\Debug\EditWindow.g.cs
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\obj\Debug\MainWindow.g.cs
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\obj\Debug\App.g.cs
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\obj\Debug\CocktailsD_Content.g.cs
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\obj\Debug\CocktailsD_MarkupCompile.cache
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\obj\Debug\CocktailsD.g.resources
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\obj\Debug\CocktailsD.Properties.Resources.resources
+C:\Users\snek-_000\Desktop\CocktailsD\CocktailsD\obj\Debug\CocktailsD.csproj.GenerateResource.Cache
